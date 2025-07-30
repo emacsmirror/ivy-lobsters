@@ -12,7 +12,7 @@ If you prefer helm, check [helm-lobste.rs](https://github.com/julienXX/helm-lobs
 
 ## Screenshot
 
-![ivy-lobsters.png](https://d26dzxoao6i3hh.cloudfront.net/items/1N3l1x3v293S2H3C3x1h/ivy-lobsters.png)
+![ivy-lobsters.png](https://julienblanchard.com/static/ivy-lobsters.png)
 
 
 ## Requirements
